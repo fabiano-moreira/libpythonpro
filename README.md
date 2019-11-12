@@ -5,3 +5,6 @@ Nesta parte do curso do Python Pro, o PyTools, aprendemos o processo de contrubi
 
 Link para o curso[Python Pro](https://www.python.pro.br/)
 
+Tópicos da biblioteca: 
+1 - Git
+2 - Virtualenv
